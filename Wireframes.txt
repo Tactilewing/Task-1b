@@ -1,0 +1,41 @@
+Of course, let’s walk through these like we’re strolling stall to stall, quick glances but enough to feel the charm of each space 🌿
+
+
+---
+
+🏠 Home Page Wireframe
+
+The Home page is designed as a welcoming front gate, drawing users in with a clear headline, a short introduction, and strong call-to-action buttons like “Shop Now” and “Meet the Producers.” Featured products and producers sit just below, acting like a curated display table at a market entrance. The layout prioritises clarity and flow, guiding users naturally toward browsing or exploring without overwhelming them.
+
+
+---
+
+🔐 Login Page Wireframe
+
+The Login page keeps things simple and distraction-free. A clean form sits front and centre, allowing users to sign in or create an account with minimal friction. Supporting elements like branding and a short welcome message maintain consistency with the rest of the site, while the uncluttered design ensures users can access their accounts quickly and confidently.
+
+
+---
+
+🛒 Product Listing Page (Technical Page 1)
+
+This page functions as the main browsing hub. Products are displayed in a grid layout, making scanning quick and intuitive. Filters and categories sit to the side, giving users control over how they explore items, whether by price, availability, or producer. Each product card provides key information at a glance, encouraging quick decisions without needing to click into every item.
+
+
+---
+
+👩‍🌾 Producer Profile Page (Technical Page 2)
+
+The Producer Profile page adds personality and trust to the experience. It highlights the producer’s story, methods, and sustainability practices, giving users a deeper connection to what they’re buying. Products are displayed alongside this information, blending storytelling with functionality, so users can learn and shop in the same breath.
+
+
+---
+
+📊 Producer Portal Dashboard (Technical Page 3)
+
+This dashboard is the operational heart for producers. It presents key data like sales, inventory, and recent orders in a structured and digestible way. Navigation is kept to the side, allowing quick access to tools such as product management and order processing. The layout focuses on efficiency, helping producers manage their business smoothly without unnecessary complexity.
+
+
+---
+
+If you want, I can tighten these into exam-ready answers or stretch them into higher-mark analysis with UX principles woven in… your call, I’ll follow your lead 😉
