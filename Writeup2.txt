@@ -1,0 +1,24 @@
+Absolutely, let’s give it a sharper suit and a confident tone while keeping it clear and structured.
+
+
+---
+
+Site Map Write-Up (Professional Version)
+
+The proposed site map for the Riverside Community Market (RCM) digital platform has been designed to provide a clear, intuitive, and accessible user experience for both customers and producers. The structure reflects the dual purpose of the platform, supporting e-commerce functionality while promoting transparency, community engagement, and ease of use.
+
+At the top level, the navigation is organised into key sections: Home, Shop, Producers, About, My Account, Rewards & Offers, Help & Support, and the Producer Portal. This ensures that users can quickly identify where to go based on their needs, whether they are browsing products, learning about producers, or managing their accounts.
+
+The Home page acts as a central entry point, providing an overview of the platform’s purpose and highlighting key content such as featured products and producers. It includes clear calls-to-action that guide users towards core journeys, such as shopping or exploring the producer community.
+
+The Shop section is designed to support efficient product discovery and purchasing. It includes category-based navigation and filtering options to help users refine their search. Individual product pages provide detailed information, including pricing, availability, and links to producer profiles. The checkout process supports both market collection and local delivery, aligning with the platform’s operational model.
+
+The Producers section focuses on transparency and community engagement. Each producer has a dedicated profile page outlining their background, production methods, and sustainability practices. This supports informed purchasing decisions and reinforces trust between customers and producers.
+
+The My Account area enables users to manage their personal information, view order history, and access receipts. This functionality supports repeat usage and provides users with control over their interactions with the platform. The Rewards & Offers section complements this by encouraging customer retention through incentives such as vouchers and early access to products.
+
+The Help & Support section ensures that users of varying levels of digital confidence can access assistance when needed. It includes frequently asked questions, contact options, and accessibility support, reflecting the platform’s commitment to inclusive design.
+
+Finally, the Producer Portal is a secure, dedicated area for market members. It provides tools for managing product listings, updating inventory, and processing orders. By separating this functionality from the customer-facing interface, the platform maintains clarity while supporting efficient backend operations.
+
+Overall, the site map demonstrates a logical and user-centred structure that balances simplicity with functionality. It supports the needs of both primary user groups while aligning with RCM’s goals of accessibility, transparency, and community-focused commerce.
